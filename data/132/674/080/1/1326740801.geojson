@@ -45,7 +45,7 @@
         "wk:page":"Minakulu"
     },
     "wof:country":"UG",
-    "wof:geomhash":"5b362c0628ea5a6d344f0c6a494ead02",
+    "wof:geomhash":"a26530a7c2614a3de44dd39941badb41",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     32.38180999999999,
     2.44324
 ],
-  "geometry": {"coordinates":[32.38180999999999,2.44324],"type":"Point"}
+  "geometry": {"coordinates":[32.38181,2.44324],"type":"Point"}
 }

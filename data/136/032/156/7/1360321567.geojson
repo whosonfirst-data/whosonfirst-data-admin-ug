@@ -45,7 +45,7 @@
         "gn:id":11401993
     },
     "wof:country":"UG",
-    "wof:geomhash":"fcd9830219994e70cb36d2b6220ef9da",
+    "wof:geomhash":"ce5daa9656c1259000e0e4291232db19",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     30.23669000000001,
     0.56619
 ],
-  "geometry": {"coordinates":[30.23669000000001,0.56619],"type":"Point"}
+  "geometry": {"coordinates":[30.23669,0.56619],"type":"Point"}
 }

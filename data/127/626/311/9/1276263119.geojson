@@ -48,7 +48,7 @@
         "wk:page":"Katosi"
     },
     "wof:country":"UG",
-    "wof:geomhash":"bd7116da046cd6b1ebb055de3a4b4e4a",
+    "wof:geomhash":"ad953fea964a1fa6f9e3d26259d71f5a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,5 +74,5 @@
     32.80110999999999,
     0.15265
 ],
-  "geometry": {"coordinates":[32.80110999999999,0.15265],"type":"Point"}
+  "geometry": {"coordinates":[32.80111,0.15265],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Mutukula,_Uganda"
     },
     "wof:country":"UG",
-    "wof:geomhash":"61880071aba9fe66be7346f3f230d812",
+    "wof:geomhash":"bc83f719b41ac1049e8d6513a84b4d72",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,5 +81,5 @@
     31.39389000000001,
     -0.95806
 ],
-  "geometry": {"coordinates":[31.39389000000001,-0.95806],"type":"Point"}
+  "geometry": {"coordinates":[31.39389,-0.95806],"type":"Point"}
 }
