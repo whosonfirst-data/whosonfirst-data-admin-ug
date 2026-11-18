@@ -53,9 +53,6 @@
     "name:zho_cn_x_preferred":[
         "\u9a6c\u62c9\u67e5"
     ],
-    "name:zho_tw_x_preferred":[
-        "\u5951\u57fa\u5854\u6e56"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -73,7 +70,7 @@
         }
     ],
     "wof:id":1209325011,
-    "wof:lastmodified":1636501865,
+    "wof:lastmodified":1794999722,
     "wof:name":"Maracha",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
