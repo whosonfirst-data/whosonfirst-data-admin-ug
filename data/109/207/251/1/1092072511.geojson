@@ -162,9 +162,6 @@
     "name:zho_cn_x_preferred":[
         "\u9a6c\u62c9\u67e5"
     ],
-    "name:zho_tw_x_preferred":[
-        "\u5951\u57fa\u5854\u6e56"
-    ],
     "name:zho_x_preferred":[
         "\u99ac\u62c9\u67e5\u5340"
     ],
@@ -206,7 +203,7 @@
         }
     ],
     "wof:id":1092072511,
-    "wof:lastmodified":1695886801,
+    "wof:lastmodified":1794999722,
     "wof:name":"Maracha",
     "wof:parent_id":85679861,
     "wof:placetype":"county",
