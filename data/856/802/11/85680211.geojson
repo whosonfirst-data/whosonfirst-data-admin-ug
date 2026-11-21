@@ -19,8 +19,8 @@
     "label:eng_x_preferred_shortcode":[
         "LE"
     ],
-    "lbl:latitude":-0.424871,
-    "lbl:longitude":31.835346,
+    "lbl:latitude":-0.440448,
+    "lbl:longitude":31.426855,
     "lbl:min_zoom":8.0,
     "mps:latitude":-0.434865,
     "mps:longitude":31.4218,
@@ -142,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"statoids",
     "src:population_date":"2014-08-27",
     "statoids:area_km":"1,024",
