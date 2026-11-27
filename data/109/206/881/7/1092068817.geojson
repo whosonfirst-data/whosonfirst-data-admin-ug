@@ -195,7 +195,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85680107
+        85680107,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -214,11 +215,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092068817,
+            "macroregion_id":9895094867,
             "region_id":85680107
         }
     ],
     "wof:id":1092068817,
-    "wof:lastmodified":1695886803,
+    "wof:lastmodified":1795802717,
     "wof:name":"Budaka",
     "wof:parent_id":85680107,
     "wof:placetype":"county",

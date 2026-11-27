@@ -41,7 +41,8 @@
         102191573,
         85632625,
         85680179,
-        1092073179
+        1092073179,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632625,
             "county_id":1092073179,
             "locality_id":1360120817,
+            "macroregion_id":9895094869,
             "region_id":85680179
         }
     ],
     "wof:id":1360120817,
-    "wof:lastmodified":1566595390,
+    "wof:lastmodified":1795802717,
     "wof:name":"Itojo",
     "wof:parent_id":1092073179,
     "wof:placetype":"locality",

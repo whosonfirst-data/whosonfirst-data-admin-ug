@@ -38,7 +38,8 @@
         102191573,
         85632625,
         85679929,
-        1092070289
+        1092070289,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632625,
             "county_id":1092070289,
             "locality_id":1360215691,
+            "macroregion_id":9895094869,
             "region_id":85679929
         }
     ],
     "wof:id":1360215691,
-    "wof:lastmodified":1566595416,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kanyangoma",
     "wof:parent_id":1092070289,
     "wof:placetype":"locality",

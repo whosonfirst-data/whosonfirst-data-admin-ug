@@ -96,7 +96,8 @@
     "wd:wordcount":258,
     "wof:belongsto":[
         102191573,
-        85632625
+        85632625,
+        9895094867
     ],
     "wof:breaches":[
         85679951
@@ -120,6 +121,7 @@
         {
             "continent_id":102191573,
             "country_id":85632625,
+            "macroregion_id":9895094867,
             "region_id":85680195
         }
     ],
@@ -132,9 +134,9 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1695884917,
+    "wof:lastmodified":1795802717,
     "wof:name":"Bulambuli",
-    "wof:parent_id":85632625,
+    "wof:parent_id":9895094867,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
     "wof:population":174508,

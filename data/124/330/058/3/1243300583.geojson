@@ -40,7 +40,8 @@
         1092068877,
         85632643,
         85670021,
-        1091679863
+        1091679863,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,6 +55,7 @@
             "country_id":85632625,
             "county_id":1092068877,
             "locality_id":1243300583,
+            "macroregion_id":9895094869,
             "region_id":85680075
         },
         {
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1243300583,
-    "wof:lastmodified":1566595519,
+    "wof:lastmodified":1795802717,
     "wof:name":"Nyalutembe",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

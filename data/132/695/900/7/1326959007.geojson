@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679823,
-        1092072439
+        1092072439,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092072439,
             "locality_id":1326959007,
+            "macroregion_id":9895094866,
             "region_id":85679823
         }
     ],
     "wof:id":1326959007,
-    "wof:lastmodified":1566594722,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kibula",
     "wof:parent_id":1092072439,
     "wof:placetype":"locality",

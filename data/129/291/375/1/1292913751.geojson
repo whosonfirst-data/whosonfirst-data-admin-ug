@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85680151,
-        1092072551
+        1092072551,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092072551,
             "locality_id":1292913751,
+            "macroregion_id":9895094868,
             "region_id":85680151
         }
     ],
     "wof:id":1292913751,
-    "wof:lastmodified":1566595007,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kungo",
     "wof:parent_id":1092072551,
     "wof:placetype":"locality",

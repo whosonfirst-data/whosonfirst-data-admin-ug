@@ -41,7 +41,8 @@
         102191573,
         85632625,
         85679783,
-        1092071127
+        1092071127,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632625,
             "county_id":1092071127,
             "locality_id":1327061023,
+            "macroregion_id":9895094867,
             "region_id":85679783
         }
     ],
     "wof:id":1327061023,
-    "wof:lastmodified":1566594667,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kabalang",
     "wof:parent_id":1092071127,
     "wof:placetype":"locality",

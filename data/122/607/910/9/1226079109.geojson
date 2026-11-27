@@ -41,7 +41,8 @@
         102191573,
         85632625,
         85680079,
-        1092071685
+        1092071685,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632625,
             "county_id":1092071685,
             "locality_id":1226079109,
+            "macroregion_id":9895094869,
             "region_id":85680079
         }
     ],
     "wof:id":1226079109,
-    "wof:lastmodified":1566595773,
+    "wof:lastmodified":1795802717,
     "wof:name":"Mulamba",
     "wof:parent_id":1092071685,
     "wof:placetype":"locality",

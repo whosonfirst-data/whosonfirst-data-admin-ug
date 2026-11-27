@@ -46,7 +46,8 @@
         102191573,
         85632625,
         85679939,
-        1092069635
+        1092069635,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,11 +61,12 @@
             "country_id":85632625,
             "county_id":1092069635,
             "locality_id":1309842417,
+            "macroregion_id":9895094869,
             "region_id":85679939
         }
     ],
     "wof:id":1309842417,
-    "wof:lastmodified":1566595472,
+    "wof:lastmodified":1795802717,
     "wof:name":"Rubona",
     "wof:parent_id":1092069635,
     "wof:placetype":"locality",

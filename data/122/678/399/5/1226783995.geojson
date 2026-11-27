@@ -67,7 +67,8 @@
         102191573,
         85632625,
         85679819,
-        1092073523
+        1092073523,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,11 +82,12 @@
             "country_id":85632625,
             "county_id":1092073523,
             "locality_id":1226783995,
+            "macroregion_id":9895094867,
             "region_id":85679819
         }
     ],
     "wof:id":1226783995,
-    "wof:lastmodified":1566595742,
+    "wof:lastmodified":1795802717,
     "wof:name":"Apapa",
     "wof:parent_id":1092073523,
     "wof:placetype":"locality",

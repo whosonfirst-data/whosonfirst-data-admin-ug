@@ -56,7 +56,8 @@
         102191573,
         85632625,
         85679939,
-        1092069721
+        1092069721,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,11 +71,12 @@
             "country_id":85632625,
             "county_id":1092069721,
             "locality_id":1327462751,
+            "macroregion_id":9895094869,
             "region_id":85679939
         }
     ],
     "wof:id":1327462751,
-    "wof:lastmodified":1636501829,
+    "wof:lastmodified":1795802717,
     "wof:name":"Nakaseke",
     "wof:parent_id":1092069721,
     "wof:placetype":"locality",

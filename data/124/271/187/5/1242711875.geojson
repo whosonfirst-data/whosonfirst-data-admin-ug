@@ -41,7 +41,8 @@
         102191573,
         85632625,
         1108808411,
-        1092073255
+        1092073255,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632625,
             "county_id":1092073255,
             "locality_id":1242711875,
+            "macroregion_id":9895094869,
             "region_id":1108808411
         }
     ],
     "wof:id":1242711875,
-    "wof:lastmodified":1566595571,
+    "wof:lastmodified":1795802717,
     "wof:name":"Rwensunga",
     "wof:parent_id":1092073255,
     "wof:placetype":"locality",

@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85680097,
-        1092072403
+        1092072403,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092072403,
             "locality_id":1293525935,
+            "macroregion_id":9895094867,
             "region_id":85680097
         }
     ],
     "wof:id":1293525935,
-    "wof:lastmodified":1566594943,
+    "wof:lastmodified":1795802717,
     "wof:name":"Busalamu",
     "wof:parent_id":1092072403,
     "wof:placetype":"locality",

@@ -42,7 +42,8 @@
         102191573,
         85632625,
         85680069,
-        1092073881
+        1092073881,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632625,
             "county_id":1092073881,
             "locality_id":1293424145,
+            "macroregion_id":9895094869,
             "region_id":85680069
         }
     ],
     "wof:id":1293424145,
-    "wof:lastmodified":1566595010,
+    "wof:lastmodified":1795802717,
     "wof:name":"Nyakayojo",
     "wof:parent_id":1092073881,
     "wof:placetype":"locality",

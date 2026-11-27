@@ -41,7 +41,8 @@
         102191573,
         85632625,
         85680021,
-        1092070319
+        1092070319,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632625,
             "county_id":1092070319,
             "locality_id":1242792973,
+            "macroregion_id":9895094868,
             "region_id":85680021
         }
     ],
     "wof:id":1242792973,
-    "wof:lastmodified":1566595567,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kokumongole",
     "wof:parent_id":1092070319,
     "wof:placetype":"locality",

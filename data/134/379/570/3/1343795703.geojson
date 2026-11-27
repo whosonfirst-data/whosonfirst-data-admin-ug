@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85680229,
-        1092074343
+        1092074343,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092074343,
             "locality_id":1343795703,
+            "macroregion_id":9895094869,
             "region_id":85680229
         }
     ],
     "wof:id":1343795703,
-    "wof:lastmodified":1566594828,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kichwamba",
     "wof:parent_id":1092074343,
     "wof:placetype":"locality",

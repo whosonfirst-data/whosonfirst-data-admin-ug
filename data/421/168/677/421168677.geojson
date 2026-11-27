@@ -241,7 +241,8 @@
         102191573,
         85632625,
         85679813,
-        1092074017
+        1092074017,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -260,11 +261,12 @@
             "country_id":85632625,
             "county_id":1092074017,
             "locality_id":421168677,
+            "macroregion_id":9895094867,
             "region_id":85679813
         }
     ],
     "wof:id":421168677,
-    "wof:lastmodified":1690877059,
+    "wof:lastmodified":1795802717,
     "wof:name":"Soroti",
     "wof:parent_id":1092074017,
     "wof:placetype":"locality",

@@ -206,7 +206,8 @@
     "wd:wordcount":296,
     "wof:belongsto":[
         102191573,
-        85632625
+        85632625,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -227,6 +228,7 @@
         {
             "continent_id":102191573,
             "country_id":85632625,
+            "macroregion_id":9895094867,
             "region_id":85679951
         }
     ],
@@ -239,9 +241,9 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1695884913,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kapchorwa",
-    "wof:parent_id":85632625,
+    "wof:parent_id":9895094867,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
     "wof:population":105186,

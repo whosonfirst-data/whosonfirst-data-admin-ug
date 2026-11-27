@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679939,
-        421174009
+        421174009,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":421174009,
             "locality_id":1260014701,
+            "macroregion_id":9895094869,
             "region_id":85679939
         }
     ],
     "wof:id":1260014701,
-    "wof:lastmodified":1566595288,
+    "wof:lastmodified":1795802717,
     "wof:name":"Njara",
     "wof:parent_id":421174009,
     "wof:placetype":"locality",

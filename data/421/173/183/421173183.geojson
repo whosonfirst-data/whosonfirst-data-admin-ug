@@ -289,7 +289,8 @@
         102191573,
         85632625,
         85679965,
-        1092072743
+        1092072743,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -308,11 +309,12 @@
             "country_id":85632625,
             "county_id":1092072743,
             "locality_id":421173183,
+            "macroregion_id":9895094867,
             "region_id":85679965
         }
     ],
     "wof:id":421173183,
-    "wof:lastmodified":1690877063,
+    "wof:lastmodified":1795802717,
     "wof:name":"Mbale",
     "wof:parent_id":1092072743,
     "wof:placetype":"locality",

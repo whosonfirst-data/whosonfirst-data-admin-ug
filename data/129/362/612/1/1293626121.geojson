@@ -68,7 +68,8 @@
         102191573,
         85632625,
         85679979,
-        1092073897
+        1092073897,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,11 +83,12 @@
             "country_id":85632625,
             "county_id":1092073897,
             "locality_id":1293626121,
+            "macroregion_id":9895094867,
             "region_id":85679979
         }
     ],
     "wof:id":1293626121,
-    "wof:lastmodified":1566594939,
+    "wof:lastmodified":1795802717,
     "wof:name":"Agata",
     "wof:parent_id":1092073897,
     "wof:placetype":"locality",

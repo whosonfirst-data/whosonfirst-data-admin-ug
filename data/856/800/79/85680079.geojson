@@ -271,7 +271,8 @@
     "wd:wordcount":300,
     "wof:belongsto":[
         102191573,
-        85632625
+        85632625,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -295,6 +296,7 @@
         {
             "continent_id":102191573,
             "country_id":85632625,
+            "macroregion_id":9895094869,
             "region_id":85680079
         }
     ],
@@ -307,9 +309,9 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1695884917,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kanungu",
-    "wof:parent_id":85632625,
+    "wof:parent_id":9895094869,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
     "wof:population":252144,

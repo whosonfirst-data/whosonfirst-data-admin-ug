@@ -59,7 +59,8 @@
         102191573,
         85632625,
         85679795,
-        1092070253
+        1092070253,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,11 +74,12 @@
             "country_id":85632625,
             "county_id":1092070253,
             "locality_id":1226680571,
+            "macroregion_id":9895094867,
             "region_id":85679795
         }
     ],
     "wof:id":1226680571,
-    "wof:lastmodified":1566595697,
+    "wof:lastmodified":1795802717,
     "wof:name":"Bulawa",
     "wof:parent_id":1092070253,
     "wof:placetype":"locality",

@@ -58,7 +58,8 @@
         102191573,
         85632625,
         85680017,
-        1092072625
+        1092072625,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,11 +73,12 @@
             "country_id":85632625,
             "county_id":1092072625,
             "locality_id":1243382289,
+            "macroregion_id":9895094868,
             "region_id":85680017
         }
     ],
     "wof:id":1243382289,
-    "wof:lastmodified":1566595505,
+    "wof:lastmodified":1795802717,
     "wof:name":"Rupa",
     "wof:parent_id":1092072625,
     "wof:placetype":"locality",

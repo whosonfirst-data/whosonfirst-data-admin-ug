@@ -49,7 +49,8 @@
         102191573,
         85632625,
         85679813,
-        1092074017
+        1092074017,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,11 +64,12 @@
             "country_id":85632625,
             "county_id":1092074017,
             "locality_id":1343992753,
+            "macroregion_id":9895094867,
             "region_id":85679813
         }
     ],
     "wof:id":1343992753,
-    "wof:lastmodified":1566594803,
+    "wof:lastmodified":1795802717,
     "wof:name":"Pamba",
     "wof:parent_id":1092074017,
     "wof:placetype":"locality",

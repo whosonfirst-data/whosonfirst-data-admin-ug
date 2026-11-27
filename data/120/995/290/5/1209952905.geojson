@@ -68,7 +68,8 @@
         102191573,
         85632625,
         85680047,
-        1092070677
+        1092070677,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,11 +84,12 @@
             "country_id":85632625,
             "county_id":1092070677,
             "locality_id":1209952905,
+            "macroregion_id":9895094869,
             "region_id":85680047
         }
     ],
     "wof:id":1209952905,
-    "wof:lastmodified":1636501865,
+    "wof:lastmodified":1795802717,
     "wof:name":"Ibanda",
     "wof:parent_id":1092070677,
     "wof:placetype":"locality",

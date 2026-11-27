@@ -67,7 +67,8 @@
         102191573,
         85632625,
         85680241,
-        1092069121
+        1092069121,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,11 +82,12 @@
             "country_id":85632625,
             "county_id":1092069121,
             "locality_id":1293420565,
+            "macroregion_id":9895094869,
             "region_id":85680241
         }
     ],
     "wof:id":1293420565,
-    "wof:lastmodified":1566595016,
+    "wof:lastmodified":1795802717,
     "wof:name":"Butale",
     "wof:parent_id":1092069121,
     "wof:placetype":"locality",

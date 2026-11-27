@@ -61,7 +61,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85679799
+        85679799,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,11 +77,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092071719,
+            "macroregion_id":9895094868,
             "region_id":85679799
         }
     ],
     "wof:id":1092071719,
-    "wof:lastmodified":1695886169,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kyoga",
     "wof:parent_id":85679799,
     "wof:placetype":"county",

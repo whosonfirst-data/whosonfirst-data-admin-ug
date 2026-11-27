@@ -79,7 +79,8 @@
         102191573,
         85632625,
         85679899,
-        1092070355
+        1092070355,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,11 +94,12 @@
             "country_id":85632625,
             "county_id":1092070355,
             "locality_id":1193155669,
+            "macroregion_id":9895094868,
             "region_id":85679899
         }
     ],
     "wof:id":1193155669,
-    "wof:lastmodified":1566595261,
+    "wof:lastmodified":1795802717,
     "wof:name":"Amida",
     "wof:parent_id":1092070355,
     "wof:placetype":"locality",

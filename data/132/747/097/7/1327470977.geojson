@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85680195,
-        1092069435
+        1092069435,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092069435,
             "locality_id":1327470977,
+            "macroregion_id":9895094867,
             "region_id":85680195
         }
     ],
     "wof:id":1327470977,
-    "wof:lastmodified":1566594728,
+    "wof:lastmodified":1795802717,
     "wof:name":"Bugwa",
     "wof:parent_id":1092069435,
     "wof:placetype":"locality",

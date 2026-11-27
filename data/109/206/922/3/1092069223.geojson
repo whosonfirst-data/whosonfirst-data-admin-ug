@@ -51,7 +51,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85680061
+        85680061,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,11 +67,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092069223,
+            "macroregion_id":9895094869,
             "region_id":85680061
         }
     ],
     "wof:id":1092069223,
-    "wof:lastmodified":1695886163,
+    "wof:lastmodified":1795802717,
     "wof:name":"Rujumbura",
     "wof:parent_id":85680061,
     "wof:placetype":"county",

@@ -35,7 +35,8 @@
         102191573,
         85632625,
         85679803,
-        1092069483
+        1092069483,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85632625,
             "county_id":1092069483,
             "locality_id":1242814697,
+            "macroregion_id":9895094867,
             "region_id":85679803
         }
     ],
     "wof:id":1242814697,
-    "wof:lastmodified":1566595535,
+    "wof:lastmodified":1795802717,
     "wof:name":"Budini-Bamutaze",
     "wof:parent_id":1092069483,
     "wof:placetype":"locality",

@@ -52,7 +52,8 @@
         102191573,
         85632625,
         85680073,
-        1092073673
+        1092073673,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,11 +67,12 @@
             "country_id":85632625,
             "county_id":1092073673,
             "locality_id":1343597763,
+            "macroregion_id":9895094869,
             "region_id":85680073
         }
     ],
     "wof:id":1343597763,
-    "wof:lastmodified":1566594845,
+    "wof:lastmodified":1795802717,
     "wof:name":"Muko",
     "wof:parent_id":1092073673,
     "wof:placetype":"locality",

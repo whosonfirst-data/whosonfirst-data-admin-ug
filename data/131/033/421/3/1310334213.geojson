@@ -41,7 +41,8 @@
         102191573,
         85632625,
         85679981,
-        1092069677
+        1092069677,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632625,
             "county_id":1092069677,
             "locality_id":1310334213,
+            "macroregion_id":9895094867,
             "region_id":85679981
         }
     ],
     "wof:id":1310334213,
-    "wof:lastmodified":1566595384,
+    "wof:lastmodified":1795802717,
     "wof:name":"Butesa",
     "wof:parent_id":1092069677,
     "wof:placetype":"locality",

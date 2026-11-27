@@ -52,7 +52,8 @@
         102191573,
         85632625,
         85679867,
-        1092071203
+        1092071203,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,11 +67,12 @@
             "country_id":85632625,
             "county_id":1092071203,
             "locality_id":1293327079,
+            "macroregion_id":9895094866,
             "region_id":85679867
         }
     ],
     "wof:id":1293327079,
-    "wof:lastmodified":1636501858,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kalungu",
     "wof:parent_id":1092071203,
     "wof:placetype":"locality",

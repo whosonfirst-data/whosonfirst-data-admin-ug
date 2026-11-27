@@ -223,7 +223,8 @@
         102191573,
         85632625,
         85679899,
-        1092070355
+        1092070355,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -248,11 +249,12 @@
             "country_id":85632625,
             "county_id":1092070355,
             "locality_id":890435353,
+            "macroregion_id":9895094868,
             "region_id":85679899
         }
     ],
     "wof:id":890435353,
-    "wof:lastmodified":1690877073,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kitgum",
     "wof:parent_id":1092070355,
     "wof:placetype":"locality",

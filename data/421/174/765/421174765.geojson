@@ -314,7 +314,8 @@
         102191573,
         85632625,
         85679905,
-        1092070633
+        1092070633,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -333,11 +334,12 @@
             "country_id":85632625,
             "county_id":1092070633,
             "locality_id":421174765,
+            "macroregion_id":9895094868,
             "region_id":85679905
         }
     ],
     "wof:id":421174765,
-    "wof:lastmodified":1690877061,
+    "wof:lastmodified":1795802717,
     "wof:name":"Gulu",
     "wof:parent_id":1092070633,
     "wof:placetype":"locality",

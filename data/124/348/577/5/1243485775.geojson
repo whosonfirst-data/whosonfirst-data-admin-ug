@@ -35,7 +35,8 @@
         102191573,
         85632625,
         85679995,
-        1092074245
+        1092074245,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85632625,
             "county_id":1092074245,
             "locality_id":1243485775,
+            "macroregion_id":9895094867,
             "region_id":85679995
         }
     ],
     "wof:id":1243485775,
-    "wof:lastmodified":1566595552,
+    "wof:lastmodified":1795802717,
     "wof:name":"Olela",
     "wof:parent_id":1092074245,
     "wof:placetype":"locality",

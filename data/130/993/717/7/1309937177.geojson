@@ -91,7 +91,8 @@
         102191573,
         85632625,
         85679823,
-        1092072439
+        1092072439,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,11 +106,12 @@
             "country_id":85632625,
             "county_id":1092072439,
             "locality_id":1309937177,
+            "macroregion_id":9895094866,
             "region_id":85679823
         }
     ],
     "wof:id":1309937177,
-    "wof:lastmodified":1566595479,
+    "wof:lastmodified":1795802717,
     "wof:name":"Makole",
     "wof:parent_id":1092072439,
     "wof:placetype":"locality",

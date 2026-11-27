@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85680037,
-        1092069357
+        1092069357,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092069357,
             "locality_id":1343495117,
+            "macroregion_id":9895094869,
             "region_id":85680037
         }
     ],
     "wof:id":1343495117,
-    "wof:lastmodified":1566594834,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kanyampara",
     "wof:parent_id":1092069357,
     "wof:placetype":"locality",

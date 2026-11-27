@@ -46,7 +46,8 @@
         102191573,
         85632625,
         85679917,
-        1092068503
+        1092068503,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,11 +61,12 @@
             "country_id":85632625,
             "county_id":1092068503,
             "locality_id":1292913949,
+            "macroregion_id":9895094868,
             "region_id":85679917
         }
     ],
     "wof:id":1292913949,
-    "wof:lastmodified":1566595007,
+    "wof:lastmodified":1795802717,
     "wof:name":"Aswa",
     "wof:parent_id":1092068503,
     "wof:placetype":"locality",

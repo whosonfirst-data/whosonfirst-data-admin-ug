@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679939,
-        1092069721
+        1092069721,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092069721,
             "locality_id":1276478521,
+            "macroregion_id":9895094869,
             "region_id":85679939
         }
     ],
     "wof:id":1276478521,
-    "wof:lastmodified":1566595087,
+    "wof:lastmodified":1795802717,
     "wof:name":"Muhumbu",
     "wof:parent_id":1092069721,
     "wof:placetype":"locality",

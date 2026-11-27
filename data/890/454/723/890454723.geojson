@@ -232,7 +232,8 @@
         102191573,
         85632625,
         85679833,
-        1092070471
+        1092070471,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,11 +252,12 @@
             "country_id":85632625,
             "county_id":1092070471,
             "locality_id":890454723,
+            "macroregion_id":9895094868,
             "region_id":85679833
         }
     ],
     "wof:id":890454723,
-    "wof:lastmodified":1690877069,
+    "wof:lastmodified":1795802717,
     "wof:name":"Adjumani",
     "wof:parent_id":1092070471,
     "wof:placetype":"locality",

@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679933,
-        1092068961
+        1092068961,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092068961,
             "locality_id":1209951571,
+            "macroregion_id":9895094869,
             "region_id":85679933
         }
     ],
     "wof:id":1209951571,
-    "wof:lastmodified":1566595199,
+    "wof:lastmodified":1795802717,
     "wof:name":"Muiscoe",
     "wof:parent_id":1092068961,
     "wof:placetype":"locality",

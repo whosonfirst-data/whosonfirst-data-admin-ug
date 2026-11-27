@@ -60,7 +60,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85679795
+        85679795,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,11 +76,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092070253,
+            "macroregion_id":9895094867,
             "region_id":85679795
         }
     ],
     "wof:id":1092070253,
-    "wof:lastmodified":1695886166,
+    "wof:lastmodified":1795802717,
     "wof:name":"Buzaaya",
     "wof:parent_id":85679795,
     "wof:placetype":"county",

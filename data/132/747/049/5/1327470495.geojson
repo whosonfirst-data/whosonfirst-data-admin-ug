@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85680073,
-        1092070905
+        1092070905,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092070905,
             "locality_id":1327470495,
+            "macroregion_id":9895094869,
             "region_id":85680073
         }
     ],
     "wof:id":1327470495,
-    "wof:lastmodified":1566594728,
+    "wof:lastmodified":1795802717,
     "wof:name":"Lasachi",
     "wof:parent_id":1092070905,
     "wof:placetype":"locality",

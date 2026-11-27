@@ -96,7 +96,8 @@
         102191573,
         85632625,
         85679947,
-        1092070207
+        1092070207,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,11 +111,12 @@
             "country_id":85632625,
             "county_id":1092070207,
             "locality_id":1276266279,
+            "macroregion_id":9895094869,
             "region_id":85679947
         }
     ],
     "wof:id":1276266279,
-    "wof:lastmodified":1636501859,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kibale",
     "wof:parent_id":1092070207,
     "wof:placetype":"locality",

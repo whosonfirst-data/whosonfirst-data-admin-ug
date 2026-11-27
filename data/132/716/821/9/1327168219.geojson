@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85680041,
-        421202527
+        421202527,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":421202527,
             "locality_id":1327168219,
+            "macroregion_id":9895094869,
             "region_id":85680041
         }
     ],
     "wof:id":1327168219,
-    "wof:lastmodified":1566594779,
+    "wof:lastmodified":1795802717,
     "wof:name":"Nyabihara",
     "wof:parent_id":421202527,
     "wof:placetype":"locality",

@@ -65,7 +65,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85680021
+        85680021,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,11 +81,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092070319,
+            "macroregion_id":9895094868,
             "region_id":85680021
         }
     ],
     "wof:id":1092070319,
-    "wof:lastmodified":1695886167,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kadani",
     "wof:parent_id":85680021,
     "wof:placetype":"county",

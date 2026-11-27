@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679769,
-        1092072149
+        1092072149,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092072149,
             "locality_id":1209950511,
+            "macroregion_id":9895094866,
             "region_id":85679769
         }
     ],
     "wof:id":1209950511,
-    "wof:lastmodified":1566595204,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kagala",
     "wof:parent_id":1092072149,
     "wof:placetype":"locality",

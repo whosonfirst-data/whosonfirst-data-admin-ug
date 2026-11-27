@@ -38,7 +38,8 @@
         102191573,
         85632625,
         85679929,
-        1092074383
+        1092074383,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632625,
             "county_id":1092074383,
             "locality_id":1209945169,
+            "macroregion_id":9895094869,
             "region_id":85679929
         }
     ],
     "wof:id":1209945169,
-    "wof:lastmodified":1566595221,
+    "wof:lastmodified":1795802717,
     "wof:name":"Rwansenge",
     "wof:parent_id":1092074383,
     "wof:placetype":"locality",

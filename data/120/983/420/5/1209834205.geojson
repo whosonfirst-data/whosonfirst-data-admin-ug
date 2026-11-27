@@ -49,7 +49,8 @@
         102191573,
         85632625,
         85680247,
-        1092073225
+        1092073225,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,11 +65,12 @@
             "country_id":85632625,
             "county_id":1092073225,
             "locality_id":1209834205,
+            "macroregion_id":9895094868,
             "region_id":85680247
         }
     ],
     "wof:id":1209834205,
-    "wof:lastmodified":1566595167,
+    "wof:lastmodified":1795802717,
     "wof:name":"Anaka",
     "wof:parent_id":1092073225,
     "wof:placetype":"locality",

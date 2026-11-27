@@ -116,7 +116,8 @@
         102191573,
         85632625,
         85679929,
-        1092074383
+        1092074383,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,11 +131,12 @@
             "country_id":85632625,
             "county_id":1092074383,
             "locality_id":1276581451,
+            "macroregion_id":9895094869,
             "region_id":85679929
         }
     ],
     "wof:id":1276581451,
-    "wof:lastmodified":1566595071,
+    "wof:lastmodified":1795802717,
     "wof:name":"Sara",
     "wof:parent_id":1092074383,
     "wof:placetype":"locality",

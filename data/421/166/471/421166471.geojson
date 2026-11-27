@@ -100,7 +100,8 @@
         102191573,
         85632625,
         85680079,
-        1092071685
+        1092071685,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,11 +125,12 @@
             "country_id":85632625,
             "county_id":1092071685,
             "locality_id":421166471,
+            "macroregion_id":9895094869,
             "region_id":85680079
         }
     ],
     "wof:id":421166471,
-    "wof:lastmodified":1690877059,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kanungu",
     "wof:parent_id":1092071685,
     "wof:placetype":"locality",

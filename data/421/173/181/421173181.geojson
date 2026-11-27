@@ -174,7 +174,8 @@
         85632625,
         85679817,
         1092072911,
-        85680121
+        85680121,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -192,6 +193,7 @@
             "country_id":85632625,
             "county_id":1092072911,
             "locality_id":421173181,
+            "macroregion_id":9895094866,
             "region_id":85679817
         },
         {
@@ -199,11 +201,12 @@
             "country_id":85632625,
             "county_id":1092072911,
             "locality_id":421173181,
+            "macroregion_id":9895094866,
             "region_id":85680121
         }
     ],
     "wof:id":421173181,
-    "wof:lastmodified":1690877063,
+    "wof:lastmodified":1795802717,
     "wof:name":"Mukono",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

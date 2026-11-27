@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85680103,
-        1092068855
+        1092068855,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092068855,
             "locality_id":1276266821,
+            "macroregion_id":9895094867,
             "region_id":85680103
         }
     ],
     "wof:id":1276266821,
-    "wof:lastmodified":1566595047,
+    "wof:lastmodified":1795802717,
     "wof:name":"Mpunde",
     "wof:parent_id":1092068855,
     "wof:placetype":"locality",

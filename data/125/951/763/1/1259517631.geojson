@@ -40,7 +40,8 @@
         102191573,
         85632625,
         85679929,
-        1092074383
+        1092074383,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632625,
             "county_id":1092074383,
             "locality_id":1259517631,
+            "macroregion_id":9895094869,
             "region_id":85679929
         }
     ],
     "wof:id":1259517631,
-    "wof:lastmodified":1566595644,
+    "wof:lastmodified":1795802717,
     "wof:name":"Mongiro",
     "wof:parent_id":1092074383,
     "wof:placetype":"locality",

@@ -354,7 +354,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85679939
+        85679939,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -377,11 +378,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":421174009,
+            "macroregion_id":9895094869,
             "region_id":85679939
         }
     ],
     "wof:id":421174009,
-    "wof:lastmodified":1695886795,
+    "wof:lastmodified":1795802717,
     "wof:name":"Fort Portal Municipality",
     "wof:parent_id":85679939,
     "wof:placetype":"county",

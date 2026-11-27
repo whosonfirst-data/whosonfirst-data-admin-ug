@@ -40,7 +40,8 @@
         1092073489,
         85632643,
         85669979,
-        1091679797
+        1091679797,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,6 +55,7 @@
             "country_id":85632625,
             "county_id":1092073489,
             "locality_id":1259898503,
+            "macroregion_id":9895094868,
             "region_id":85679849
         },
         {
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1259898503,
-    "wof:lastmodified":1566595653,
+    "wof:lastmodified":1795802717,
     "wof:name":"Ajor",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

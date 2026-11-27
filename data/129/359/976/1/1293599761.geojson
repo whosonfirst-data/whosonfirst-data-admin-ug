@@ -40,7 +40,8 @@
         102191573,
         85632625,
         85679799,
-        1092071719
+        1092071719,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632625,
             "county_id":1092071719,
             "locality_id":1293599761,
+            "macroregion_id":9895094868,
             "region_id":85679799
         }
     ],
     "wof:id":1293599761,
-    "wof:lastmodified":1566594982,
+    "wof:lastmodified":1795802717,
     "wof:name":"Katangira",
     "wof:parent_id":1092071719,
     "wof:placetype":"locality",

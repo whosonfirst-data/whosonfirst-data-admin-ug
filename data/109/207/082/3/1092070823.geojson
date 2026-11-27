@@ -190,7 +190,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85679773
+        85679773,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -206,11 +207,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092070823,
+            "macroregion_id":9895094867,
             "region_id":85679773
         }
     ],
     "wof:id":1092070823,
-    "wof:lastmodified":1695886709,
+    "wof:lastmodified":1795802717,
     "wof:name":"Jinja Municipality",
     "wof:parent_id":85679773,
     "wof:placetype":"county",

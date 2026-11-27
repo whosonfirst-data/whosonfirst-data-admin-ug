@@ -40,7 +40,8 @@
         102191573,
         85632625,
         85679889,
-        1092071357
+        1092071357,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632625,
             "county_id":1092071357,
             "locality_id":1259614265,
+            "macroregion_id":9895094866,
             "region_id":85679889
         }
     ],
     "wof:id":1259614265,
-    "wof:lastmodified":1566595638,
+    "wof:lastmodified":1795802717,
     "wof:name":"Bukuya",
     "wof:parent_id":1092071357,
     "wof:placetype":"locality",

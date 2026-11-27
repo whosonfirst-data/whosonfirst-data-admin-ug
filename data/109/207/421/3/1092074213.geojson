@@ -192,7 +192,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85679989
+        85679989,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -208,11 +209,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092074213,
+            "macroregion_id":9895094867,
             "region_id":85679989
         }
     ],
     "wof:id":1092074213,
-    "wof:lastmodified":1695886802,
+    "wof:lastmodified":1795802717,
     "wof:name":"Tororo",
     "wof:parent_id":85679989,
     "wof:placetype":"county",

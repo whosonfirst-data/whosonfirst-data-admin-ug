@@ -94,7 +94,8 @@
         102191573,
         85632625,
         85680111,
-        1092071585
+        1092071585,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,11 +109,12 @@
             "country_id":85632625,
             "county_id":1092071585,
             "locality_id":1226677685,
+            "macroregion_id":9895094867,
             "region_id":85680111
         }
     ],
     "wof:id":1226677685,
-    "wof:lastmodified":1636501901,
+    "wof:lastmodified":1795802717,
     "wof:name":"Bugiri",
     "wof:parent_id":1092071585,
     "wof:placetype":"locality",

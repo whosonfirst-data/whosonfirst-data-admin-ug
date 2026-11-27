@@ -40,7 +40,8 @@
         102191573,
         85632625,
         85679969,
-        1092068753
+        1092068753,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632625,
             "county_id":1092068753,
             "locality_id":1310140181,
+            "macroregion_id":9895094867,
             "region_id":85679969
         }
     ],
     "wof:id":1310140181,
-    "wof:lastmodified":1566595331,
+    "wof:lastmodified":1795802717,
     "wof:name":"Buwabwala",
     "wof:parent_id":1092068753,
     "wof:placetype":"locality",

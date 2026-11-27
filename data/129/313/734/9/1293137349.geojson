@@ -43,7 +43,8 @@
         102191573,
         85632625,
         85680183,
-        1092072113
+        1092072113,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,11 +58,12 @@
             "country_id":85632625,
             "county_id":1092072113,
             "locality_id":1293137349,
+            "macroregion_id":9895094869,
             "region_id":85680183
         }
     ],
     "wof:id":1293137349,
-    "wof:lastmodified":1566594978,
+    "wof:lastmodified":1795802717,
     "wof:name":"Mparo",
     "wof:parent_id":1092072113,
     "wof:placetype":"locality",

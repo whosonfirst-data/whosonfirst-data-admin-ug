@@ -38,7 +38,8 @@
         102191573,
         85632625,
         85679965,
-        1092069563
+        1092069563,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632625,
             "county_id":1092069563,
             "locality_id":1309741133,
+            "macroregion_id":9895094867,
             "region_id":85679965
         }
     ],
     "wof:id":1309741133,
-    "wof:lastmodified":1566595492,
+    "wof:lastmodified":1795802717,
     "wof:name":"Raasa",
     "wof:parent_id":1092069563,
     "wof:placetype":"locality",

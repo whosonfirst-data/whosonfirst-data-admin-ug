@@ -220,7 +220,8 @@
         102191573,
         85632625,
         85679787,
-        1092073141
+        1092073141,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -239,11 +240,12 @@
             "country_id":85632625,
             "county_id":1092073141,
             "locality_id":890442037,
+            "macroregion_id":9895094866,
             "region_id":85679787
         }
     ],
     "wof:id":890442037,
-    "wof:lastmodified":1690877070,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kayunga",
     "wof:parent_id":1092073141,
     "wof:placetype":"locality",

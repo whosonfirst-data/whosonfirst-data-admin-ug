@@ -61,7 +61,8 @@
         102191573,
         85632625,
         85679881,
-        1092071399
+        1092071399,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,11 +76,12 @@
             "country_id":85632625,
             "county_id":1092071399,
             "locality_id":1343295887,
+            "macroregion_id":9895094866,
             "region_id":85679881
         }
     ],
     "wof:id":1343295887,
-    "wof:lastmodified":1566594881,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kamala",
     "wof:parent_id":1092071399,
     "wof:placetype":"locality",

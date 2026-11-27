@@ -40,7 +40,8 @@
         102191573,
         85632625,
         85680121,
-        1092069145
+        1092069145,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632625,
             "county_id":1092069145,
             "locality_id":1343792937,
+            "macroregion_id":9895094866,
             "region_id":85680121
         }
     ],
     "wof:id":1343792937,
-    "wof:lastmodified":1566594822,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kawuna",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

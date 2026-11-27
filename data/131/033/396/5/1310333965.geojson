@@ -40,7 +40,8 @@
         102191573,
         85632625,
         85680097,
-        1092072403
+        1092072403,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632625,
             "county_id":1092072403,
             "locality_id":1310333965,
+            "macroregion_id":9895094867,
             "region_id":85680097
         }
     ],
     "wof:id":1310333965,
-    "wof:lastmodified":1566595381,
+    "wof:lastmodified":1795802717,
     "wof:name":"Luuka Town",
     "wof:parent_id":1092072403,
     "wof:placetype":"locality",

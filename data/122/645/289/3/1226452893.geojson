@@ -41,7 +41,8 @@
         102191573,
         85632625,
         85680013,
-        1092072215
+        1092072215,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632625,
             "county_id":1092072215,
             "locality_id":1226452893,
+            "macroregion_id":9895094868,
             "region_id":85680013
         }
     ],
     "wof:id":1226452893,
-    "wof:lastmodified":1566595673,
+    "wof:lastmodified":1795802717,
     "wof:name":"Lyangha",
     "wof:parent_id":1092072215,
     "wof:placetype":"locality",

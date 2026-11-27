@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679843,
-        1092069517
+        1092069517,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092069517,
             "locality_id":1293914603,
+            "macroregion_id":9895094869,
             "region_id":85679843
         }
     ],
     "wof:id":1293914603,
-    "wof:lastmodified":1566594932,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kikongo",
     "wof:parent_id":1092069517,
     "wof:placetype":"locality",

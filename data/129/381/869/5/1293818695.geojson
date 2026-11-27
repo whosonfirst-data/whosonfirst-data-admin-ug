@@ -42,7 +42,8 @@
         102191573,
         85632625,
         85680003,
-        1092068395
+        1092068395,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632625,
             "county_id":1092068395,
             "locality_id":1293818695,
+            "macroregion_id":9895094867,
             "region_id":85680003
         }
     ],
     "wof:id":1293818695,
-    "wof:lastmodified":1566595021,
+    "wof:lastmodified":1795802717,
     "wof:name":"Asilang",
     "wof:parent_id":1092068395,
     "wof:placetype":"locality",

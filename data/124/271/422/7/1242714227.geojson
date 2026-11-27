@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679787,
-        1092068673
+        1092068673,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092068673,
             "locality_id":1242714227,
+            "macroregion_id":9895094866,
             "region_id":85679787
         }
     ],
     "wof:id":1242714227,
-    "wof:lastmodified":1566595569,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kitatya",
     "wof:parent_id":1092068673,
     "wof:placetype":"locality",

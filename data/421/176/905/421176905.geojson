@@ -230,7 +230,7 @@
         85632625,
         1108808409,
         1092071543,
-        85680145
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -249,6 +249,7 @@
             "country_id":85632625,
             "county_id":1092071543,
             "locality_id":421176905,
+            "macroregion_id":9895094866,
             "region_id":1108808409
         },
         {
@@ -260,7 +261,7 @@
         }
     ],
     "wof:id":421176905,
-    "wof:lastmodified":1690877067,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kiboga",
     "wof:parent_id":1092071543,
     "wof:placetype":"locality",

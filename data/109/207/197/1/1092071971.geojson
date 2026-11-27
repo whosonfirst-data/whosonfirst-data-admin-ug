@@ -60,7 +60,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85680151
+        85680151,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,11 +76,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092071971,
+            "macroregion_id":9895094868,
             "region_id":85680151
         }
     ],
     "wof:id":1092071971,
-    "wof:lastmodified":1695886169,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kwania",
     "wof:parent_id":85680151,
     "wof:placetype":"county",

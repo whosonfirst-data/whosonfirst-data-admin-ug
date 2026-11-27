@@ -69,7 +69,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85679899
+        85679899,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,11 +85,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092070355,
+            "macroregion_id":9895094868,
             "region_id":85679899
         }
     ],
     "wof:id":1092070355,
-    "wof:lastmodified":1695886166,
+    "wof:lastmodified":1795802717,
     "wof:name":"Chua",
     "wof:parent_id":85679899,
     "wof:placetype":"county",
