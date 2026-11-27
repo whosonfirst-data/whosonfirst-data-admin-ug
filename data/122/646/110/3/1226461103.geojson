@@ -466,7 +466,8 @@
         102191573,
         85632625,
         85680085,
-        1092073339
+        1092073339,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -480,11 +481,12 @@
             "country_id":85632625,
             "county_id":1092073339,
             "locality_id":1226461103,
+            "macroregion_id":9895094868,
             "region_id":85680085
         }
     ],
     "wof:id":1226461103,
-    "wof:lastmodified":1566595747,
+    "wof:lastmodified":1795802717,
     "wof:name":"War",
     "wof:parent_id":1092073339,
     "wof:placetype":"locality",

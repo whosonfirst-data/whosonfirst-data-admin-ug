@@ -50,7 +50,8 @@
         102191573,
         85632625,
         85679939,
-        1092069721
+        1092069721,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,11 +65,12 @@
             "country_id":85632625,
             "county_id":1092069721,
             "locality_id":1327368811,
+            "macroregion_id":9895094869,
             "region_id":85679939
         }
     ],
     "wof:id":1327368811,
-    "wof:lastmodified":1566594682,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kikiki",
     "wof:parent_id":1092069721,
     "wof:placetype":"locality",

@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679879,
-        1092072077
+        1092072077,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092072077,
             "locality_id":1193170751,
+            "macroregion_id":9895094866,
             "region_id":85679879
         }
     ],
     "wof:id":1193170751,
-    "wof:lastmodified":1566595278,
+    "wof:lastmodified":1795802717,
     "wof:name":"Busabala",
     "wof:parent_id":1092072077,
     "wof:placetype":"locality",

@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679999,
-        1092070781
+        1092070781,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092070781,
             "locality_id":1226664917,
+            "macroregion_id":9895094868,
             "region_id":85679999
         }
     ],
     "wof:id":1226664917,
-    "wof:lastmodified":1566595690,
+    "wof:lastmodified":1795802717,
     "wof:name":"Lolito",
     "wof:parent_id":1092070781,
     "wof:placetype":"locality",

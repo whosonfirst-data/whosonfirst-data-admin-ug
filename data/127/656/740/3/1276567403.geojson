@@ -88,7 +88,8 @@
         102191573,
         85632625,
         85679857,
-        1092068435
+        1092068435,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,11 +103,12 @@
             "country_id":85632625,
             "county_id":1092068435,
             "locality_id":1276567403,
+            "macroregion_id":9895094868,
             "region_id":85679857
         }
     ],
     "wof:id":1276567403,
-    "wof:lastmodified":1636501860,
+    "wof:lastmodified":1795802717,
     "wof:name":"Lori",
     "wof:parent_id":1092068435,
     "wof:placetype":"locality",

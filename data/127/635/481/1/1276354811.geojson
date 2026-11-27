@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85680007,
-        1092070399
+        1092070399,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092070399,
             "locality_id":1276354811,
+            "macroregion_id":9895094868,
             "region_id":85680007
         }
     ],
     "wof:id":1276354811,
-    "wof:lastmodified":1566595078,
+    "wof:lastmodified":1795802717,
     "wof:name":"Opotipot",
     "wof:parent_id":1092070399,
     "wof:placetype":"locality",

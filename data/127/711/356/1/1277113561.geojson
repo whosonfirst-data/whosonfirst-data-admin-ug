@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85680061,
-        1092073637
+        1092073637,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092073637,
             "locality_id":1277113561,
+            "macroregion_id":9895094869,
             "region_id":85680061
         }
     ],
     "wof:id":1277113561,
-    "wof:lastmodified":1566595139,
+    "wof:lastmodified":1795802717,
     "wof:name":"Murama",
     "wof:parent_id":1092073637,
     "wof:placetype":"locality",

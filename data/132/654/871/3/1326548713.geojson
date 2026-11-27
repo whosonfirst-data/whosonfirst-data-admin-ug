@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679853,
-        1092074321
+        1092074321,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092074321,
             "locality_id":1326548713,
+            "macroregion_id":9895094868,
             "region_id":85679853
         }
     ],
     "wof:id":1326548713,
-    "wof:lastmodified":1566594768,
+    "wof:lastmodified":1795802717,
     "wof:name":"Erepi",
     "wof:parent_id":1092074321,
     "wof:placetype":"locality",

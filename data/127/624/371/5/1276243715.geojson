@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85680165,
-        1092073413
+        1092073413,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092073413,
             "locality_id":1276243715,
+            "macroregion_id":9895094868,
             "region_id":85680165
         }
     ],
     "wof:id":1276243715,
-    "wof:lastmodified":1566595091,
+    "wof:lastmodified":1795802717,
     "wof:name":"Olilim",
     "wof:parent_id":1092073413,
     "wof:placetype":"locality",

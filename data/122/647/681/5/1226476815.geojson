@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85680175,
-        1092071513
+        1092071513,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092071513,
             "locality_id":1226476815,
+            "macroregion_id":9895094869,
             "region_id":85680175
         }
     ],
     "wof:id":1226476815,
-    "wof:lastmodified":1566595731,
+    "wof:lastmodified":1795802717,
     "wof:name":"Wabitoki",
     "wof:parent_id":1092071513,
     "wof:placetype":"locality",

@@ -41,7 +41,8 @@
         102191573,
         85632625,
         85680133,
-        1092070589
+        1092070589,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632625,
             "county_id":1092070589,
             "locality_id":1277113301,
+            "macroregion_id":9895094866,
             "region_id":85680133
         }
     ],
     "wof:id":1277113301,
-    "wof:lastmodified":1566595135,
+    "wof:lastmodified":1795802717,
     "wof:name":"Bujunjuzi",
     "wof:parent_id":1092070589,
     "wof:placetype":"locality",

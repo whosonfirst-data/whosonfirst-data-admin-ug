@@ -63,7 +63,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85680059
+        85680059,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,11 +79,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092071063,
+            "macroregion_id":9895094869,
             "region_id":85680059
         }
     ],
     "wof:id":1092071063,
-    "wof:lastmodified":1695886167,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kajara",
     "wof:parent_id":85680059,
     "wof:placetype":"county",

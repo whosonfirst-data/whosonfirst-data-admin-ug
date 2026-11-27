@@ -224,7 +224,8 @@
         85632625,
         85680017,
         1092072851,
-        85680201
+        85680201,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -243,6 +244,7 @@
             "country_id":85632625,
             "county_id":1092072851,
             "locality_id":890442381,
+            "macroregion_id":9895094868,
             "region_id":85680017
         },
         {
@@ -250,11 +252,12 @@
             "country_id":85632625,
             "county_id":1092072851,
             "locality_id":890442381,
+            "macroregion_id":9895094868,
             "region_id":85680201
         }
     ],
     "wof:id":890442381,
-    "wof:lastmodified":1690877071,
+    "wof:lastmodified":1795802717,
     "wof:name":"Moroto",
     "wof:parent_id":1092072851,
     "wof:placetype":"locality",

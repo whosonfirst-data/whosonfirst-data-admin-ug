@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85680059,
-        1092073713
+        1092073713,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092073713,
             "locality_id":1242813719,
+            "macroregion_id":9895094869,
             "region_id":85680059
         }
     ],
     "wof:id":1242813719,
-    "wof:lastmodified":1566595533,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kafunzo",
     "wof:parent_id":1092073713,
     "wof:placetype":"locality",

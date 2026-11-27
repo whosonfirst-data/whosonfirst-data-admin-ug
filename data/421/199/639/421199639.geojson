@@ -293,7 +293,8 @@
         102191573,
         85632625,
         85679909,
-        1092072387
+        1092072387,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -312,11 +313,12 @@
             "country_id":85632625,
             "county_id":1092072387,
             "locality_id":421199639,
+            "macroregion_id":9895094868,
             "region_id":85679909
         }
     ],
     "wof:id":421199639,
-    "wof:lastmodified":1690877065,
+    "wof:lastmodified":1795802717,
     "wof:name":"Lira",
     "wof:parent_id":1092072387,
     "wof:placetype":"locality",

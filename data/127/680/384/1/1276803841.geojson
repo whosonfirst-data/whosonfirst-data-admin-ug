@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85680047,
-        1092070677
+        1092070677,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092070677,
             "locality_id":1276803841,
+            "macroregion_id":9895094869,
             "region_id":85680047
         }
     ],
     "wof:id":1276803841,
-    "wof:lastmodified":1566595054,
+    "wof:lastmodified":1795802717,
     "wof:name":"Mutukura",
     "wof:parent_id":1092070677,
     "wof:placetype":"locality",

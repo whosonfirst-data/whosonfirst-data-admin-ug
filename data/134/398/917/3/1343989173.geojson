@@ -46,7 +46,8 @@
         102191573,
         85632625,
         85679773,
-        1092070051
+        1092070051,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,11 +61,12 @@
             "country_id":85632625,
             "county_id":1092070051,
             "locality_id":1343989173,
+            "macroregion_id":9895094867,
             "region_id":85679773
         }
     ],
     "wof:id":1343989173,
-    "wof:lastmodified":1566594793,
+    "wof:lastmodified":1795802717,
     "wof:name":"Buwenda",
     "wof:parent_id":1092070051,
     "wof:placetype":"locality",

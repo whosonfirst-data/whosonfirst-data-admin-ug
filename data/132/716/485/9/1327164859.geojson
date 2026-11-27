@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679947,
-        1092070183
+        1092070183,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092070183,
             "locality_id":1327164859,
+            "macroregion_id":9895094869,
             "region_id":85679947
         }
     ],
     "wof:id":1327164859,
-    "wof:lastmodified":1566594778,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kitumba",
     "wof:parent_id":1092070183,
     "wof:placetype":"locality",

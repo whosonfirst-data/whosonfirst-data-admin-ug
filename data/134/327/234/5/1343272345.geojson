@@ -235,7 +235,8 @@
         102191573,
         85632625,
         85679853,
-        1092073299
+        1092073299,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -249,11 +250,12 @@
             "country_id":85632625,
             "county_id":1092073299,
             "locality_id":1343272345,
+            "macroregion_id":9895094868,
             "region_id":85679853
         }
     ],
     "wof:id":1343272345,
-    "wof:lastmodified":1566594876,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kali",
     "wof:parent_id":1092073299,
     "wof:placetype":"locality",

@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679819,
-        1092073523
+        1092073523,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092073523,
             "locality_id":1277019525,
+            "macroregion_id":9895094867,
             "region_id":85679819
         }
     ],
     "wof:id":1277019525,
-    "wof:lastmodified":1566595033,
+    "wof:lastmodified":1795802717,
     "wof:name":"Boliso",
     "wof:parent_id":1092073523,
     "wof:placetype":"locality",

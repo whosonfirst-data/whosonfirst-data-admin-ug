@@ -274,7 +274,8 @@
         102191573,
         85632625,
         85680075,
-        1092068877
+        1092068877,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -293,11 +294,12 @@
             "country_id":85632625,
             "county_id":1092068877,
             "locality_id":421173923,
+            "macroregion_id":9895094869,
             "region_id":85680075
         }
     ],
     "wof:id":421173923,
-    "wof:lastmodified":1690877063,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kisoro",
     "wof:parent_id":1092068877,
     "wof:placetype":"locality",

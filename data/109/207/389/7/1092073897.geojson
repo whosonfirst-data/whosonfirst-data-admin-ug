@@ -62,7 +62,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85679979
+        85679979,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,11 +78,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092073897,
+            "macroregion_id":9895094867,
             "region_id":85679979
         }
     ],
     "wof:id":1092073897,
-    "wof:lastmodified":1695886173,
+    "wof:lastmodified":1795802717,
     "wof:name":"Samia-bugwe",
     "wof:parent_id":85679979,
     "wof:placetype":"county",

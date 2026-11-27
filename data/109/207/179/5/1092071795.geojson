@@ -195,7 +195,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85679839
+        85679839,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -214,11 +215,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092071795,
+            "macroregion_id":9895094868,
             "region_id":85679839
         }
     ],
     "wof:id":1092071795,
-    "wof:lastmodified":1695886802,
+    "wof:lastmodified":1795802717,
     "wof:name":"Koboko",
     "wof:parent_id":85679839,
     "wof:placetype":"county",

@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679921,
-        1092069799
+        1092069799,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092069799,
             "locality_id":1226073993,
+            "macroregion_id":9895094869,
             "region_id":85679921
         }
     ],
     "wof:id":1226073993,
-    "wof:lastmodified":1566595768,
+    "wof:lastmodified":1795802717,
     "wof:name":"Sirisiri",
     "wof:parent_id":1092069799,
     "wof:placetype":"locality",

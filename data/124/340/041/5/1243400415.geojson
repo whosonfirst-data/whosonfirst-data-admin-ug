@@ -124,7 +124,8 @@
         102191573,
         85632625,
         85680073,
-        1092073783
+        1092073783,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -138,11 +139,12 @@
             "country_id":85632625,
             "county_id":1092073783,
             "locality_id":1243400415,
+            "macroregion_id":9895094869,
             "region_id":85680073
         }
     ],
     "wof:id":1243400415,
-    "wof:lastmodified":1566595555,
+    "wof:lastmodified":1795802717,
     "wof:name":"Muhanga",
     "wof:parent_id":1092073783,
     "wof:placetype":"locality",

@@ -40,7 +40,8 @@
         102191573,
         85632625,
         85680209,
-        1092073601
+        1092073601,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632625,
             "county_id":1092073601,
             "locality_id":1293502675,
+            "macroregion_id":9895094868,
             "region_id":85680209
         }
     ],
     "wof:id":1293502675,
-    "wof:lastmodified":1566594984,
+    "wof:lastmodified":1795802717,
     "wof:name":"Murut",
     "wof:parent_id":1092073601,
     "wof:placetype":"locality",

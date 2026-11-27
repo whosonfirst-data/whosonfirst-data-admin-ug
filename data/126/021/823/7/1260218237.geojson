@@ -38,7 +38,8 @@
         102191573,
         85632625,
         85679969,
-        1092068753
+        1092068753,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +53,12 @@
             "country_id":85632625,
             "county_id":1092068753,
             "locality_id":1260218237,
+            "macroregion_id":9895094867,
             "region_id":85679969
         }
     ],
     "wof:id":1260218237,
-    "wof:lastmodified":1566595308,
+    "wof:lastmodified":1795802717,
     "wof:name":"Busambatsa",
     "wof:parent_id":1092068753,
     "wof:placetype":"locality",

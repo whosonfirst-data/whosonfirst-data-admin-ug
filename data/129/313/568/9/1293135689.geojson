@@ -41,7 +41,8 @@
         102191573,
         85632625,
         85680119,
-        1092071333
+        1092071333,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632625,
             "county_id":1092071333,
             "locality_id":1293135689,
+            "macroregion_id":9895094867,
             "region_id":85680119
         }
     ],
     "wof:id":1293135689,
-    "wof:lastmodified":1566594975,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kangota",
     "wof:parent_id":1092071333,
     "wof:placetype":"locality",

@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679813,
-        1092074055
+        1092074055,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092074055,
             "locality_id":1209846463,
+            "macroregion_id":9895094867,
             "region_id":85679813
         }
     ],
     "wof:id":1209846463,
-    "wof:lastmodified":1566595171,
+    "wof:lastmodified":1795802717,
     "wof:name":"Opuyo",
     "wof:parent_id":1092074055,
     "wof:placetype":"locality",

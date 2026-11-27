@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679807,
-        1092069849
+        1092069849,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092069849,
             "locality_id":1243007683,
+            "macroregion_id":9895094867,
             "region_id":85679807
         }
     ],
     "wof:id":1243007683,
-    "wof:lastmodified":1566595511,
+    "wof:lastmodified":1795802717,
     "wof:name":"Mpulira",
     "wof:parent_id":1092069849,
     "wof:placetype":"locality",

@@ -198,7 +198,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85680003
+        85680003,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -214,11 +215,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092068395,
+            "macroregion_id":9895094867,
             "region_id":85680003
         }
     ],
     "wof:id":1092068395,
-    "wof:lastmodified":1695886803,
+    "wof:lastmodified":1795802717,
     "wof:name":"Amuria",
     "wof:parent_id":85680003,
     "wof:placetype":"county",

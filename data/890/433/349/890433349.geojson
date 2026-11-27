@@ -161,7 +161,8 @@
         102191573,
         85632625,
         85680169,
-        1092068365
+        1092068365,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -180,11 +181,12 @@
             "country_id":85632625,
             "county_id":1092068365,
             "locality_id":890433349,
+            "macroregion_id":9895094868,
             "region_id":85680169
         }
     ],
     "wof:id":890433349,
-    "wof:lastmodified":1690877072,
+    "wof:lastmodified":1795802717,
     "wof:name":"Pader",
     "wof:parent_id":1092068365,
     "wof:placetype":"locality",

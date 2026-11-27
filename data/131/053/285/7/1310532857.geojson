@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679957,
-        1092071861
+        1092071861,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092071861,
             "locality_id":1310532857,
+            "macroregion_id":9895094867,
             "region_id":85679957
         }
     ],
     "wof:id":1310532857,
-    "wof:lastmodified":1566595342,
+    "wof:lastmodified":1795802717,
     "wof:name":"Amanang",
     "wof:parent_id":1092071861,
     "wof:placetype":"locality",

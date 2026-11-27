@@ -85,7 +85,8 @@
         102191573,
         85632625,
         85679985,
-        1092069607
+        1092069607,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,11 +100,12 @@
             "country_id":85632625,
             "county_id":1092069607,
             "locality_id":1343993781,
+            "macroregion_id":9895094867,
             "region_id":85679985
         }
     ],
     "wof:id":1343993781,
-    "wof:lastmodified":1636501831,
+    "wof:lastmodified":1795802717,
     "wof:name":"Busira",
     "wof:parent_id":1092069607,
     "wof:placetype":"locality",

@@ -41,7 +41,8 @@
         102191573,
         85632625,
         85679975,
-        1092074461
+        1092074461,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632625,
             "county_id":1092074461,
             "locality_id":1259913531,
+            "macroregion_id":9895094867,
             "region_id":85679975
         }
     ],
     "wof:id":1259913531,
-    "wof:lastmodified":1566595602,
+    "wof:lastmodified":1795802717,
     "wof:name":"Gulwe",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

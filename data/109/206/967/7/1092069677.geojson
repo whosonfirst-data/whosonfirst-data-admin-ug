@@ -50,7 +50,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85679981
+        85679981,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,11 +66,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092069677,
+            "macroregion_id":9895094867,
             "region_id":85679981
         }
     ],
     "wof:id":1092069677,
-    "wof:lastmodified":1695886164,
+    "wof:lastmodified":1795802717,
     "wof:name":"Bunyole",
     "wof:parent_id":85679981,
     "wof:placetype":"county",

@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85680179,
-        1092073179
+        1092073179,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092073179,
             "locality_id":1309840563,
+            "macroregion_id":9895094869,
             "region_id":85680179
         }
     ],
     "wof:id":1309840563,
-    "wof:lastmodified":1566595473,
+    "wof:lastmodified":1795802717,
     "wof:name":"Makondo",
     "wof:parent_id":1092073179,
     "wof:placetype":"locality",

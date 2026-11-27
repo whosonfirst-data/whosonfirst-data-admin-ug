@@ -332,7 +332,8 @@
         102191573,
         85632625,
         85679773,
-        1092070823
+        1092070823,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -351,11 +352,12 @@
             "country_id":85632625,
             "county_id":1092070823,
             "locality_id":421176815,
+            "macroregion_id":9895094867,
             "region_id":85679773
         }
     ],
     "wof:id":421176815,
-    "wof:lastmodified":1690877067,
+    "wof:lastmodified":1795802717,
     "wof:name":"Jinja",
     "wof:parent_id":1092070823,
     "wof:placetype":"locality",

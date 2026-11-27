@@ -56,7 +56,8 @@
         102191573,
         85632625,
         85679773,
-        1092071019
+        1092071019,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,11 +76,12 @@
             "country_id":85632625,
             "county_id":1092071019,
             "locality_id":890450035,
+            "macroregion_id":9895094867,
             "region_id":85679773
         }
     ],
     "wof:id":890450035,
-    "wof:lastmodified":1690877073,
+    "wof:lastmodified":1795802717,
     "wof:name":"Buwenge",
     "wof:parent_id":1092071019,
     "wof:placetype":"locality",

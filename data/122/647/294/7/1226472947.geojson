@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85680251,
-        1092072481
+        1092072481,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092072481,
             "locality_id":1226472947,
+            "macroregion_id":9895094867,
             "region_id":85680251
         }
     ],
     "wof:id":1226472947,
-    "wof:lastmodified":1566595733,
+    "wof:lastmodified":1795802717,
     "wof:name":"Bukigai",
     "wof:parent_id":1092072481,
     "wof:placetype":"locality",

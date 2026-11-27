@@ -40,7 +40,8 @@
         102191573,
         85632625,
         85680125,
-        1092070099
+        1092070099,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632625,
             "county_id":1092070099,
             "locality_id":1293723327,
+            "macroregion_id":9895094866,
             "region_id":85680125
         }
     ],
     "wof:id":1293723327,
-    "wof:lastmodified":1566595029,
+    "wof:lastmodified":1795802717,
     "wof:name":"Nakatumu",
     "wof:parent_id":1092070099,
     "wof:placetype":"locality",

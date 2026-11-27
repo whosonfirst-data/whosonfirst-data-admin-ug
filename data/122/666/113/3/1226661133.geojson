@@ -481,7 +481,8 @@
         102191573,
         85632625,
         85679839,
-        1092071795
+        1092071795,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -495,11 +496,12 @@
             "country_id":85632625,
             "county_id":1092071795,
             "locality_id":1226661133,
+            "macroregion_id":9895094868,
             "region_id":85679839
         }
     ],
     "wof:id":1226661133,
-    "wof:lastmodified":1566595691,
+    "wof:lastmodified":1795802717,
     "wof:name":"Lima",
     "wof:parent_id":1092071795,
     "wof:placetype":"locality",

@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679891,
-        1092072811
+        1092072811,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092072811,
             "locality_id":1242712591,
+            "macroregion_id":9895094866,
             "region_id":85679891
         }
     ],
     "wof:id":1242712591,
-    "wof:lastmodified":1566595570,
+    "wof:lastmodified":1795802717,
     "wof:name":"Watuba",
     "wof:parent_id":1092072811,
     "wof:placetype":"locality",

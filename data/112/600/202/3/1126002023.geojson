@@ -88,7 +88,8 @@
         102191573,
         85632625,
         85680041,
-        421202527
+        421202527,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,11 +106,12 @@
             "country_id":85632625,
             "county_id":421202527,
             "locality_id":1126002023,
+            "macroregion_id":9895094869,
             "region_id":85680041
         }
     ],
     "wof:id":1126002023,
-    "wof:lastmodified":1690877076,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kamwenge",
     "wof:parent_id":421202527,
     "wof:placetype":"locality",

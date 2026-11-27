@@ -41,7 +41,8 @@
         102191573,
         85632625,
         85680069,
-        1092071287
+        1092071287,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632625,
             "county_id":1092071287,
             "locality_id":1360220961,
+            "macroregion_id":9895094869,
             "region_id":85680069
         }
     ],
     "wof:id":1360220961,
-    "wof:lastmodified":1566595392,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kamushoko",
     "wof:parent_id":1092071287,
     "wof:placetype":"locality",

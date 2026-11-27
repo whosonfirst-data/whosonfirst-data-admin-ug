@@ -193,7 +193,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85680073
+        85680073,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -209,11 +210,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092070905,
+            "macroregion_id":9895094869,
             "region_id":85680073
         }
     ],
     "wof:id":1092070905,
-    "wof:lastmodified":1695886709,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kabale Municipality",
     "wof:parent_id":85680073,
     "wof:placetype":"county",

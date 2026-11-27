@@ -42,7 +42,8 @@
         102191573,
         85632625,
         85679827,
-        1092072705
+        1092072705,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,11 +57,12 @@
             "country_id":85632625,
             "county_id":1092072705,
             "locality_id":1260320775,
+            "macroregion_id":9895094866,
             "region_id":85679827
         }
     ],
     "wof:id":1260320775,
-    "wof:lastmodified":1566595311,
+    "wof:lastmodified":1795802717,
     "wof:name":"Muduma",
     "wof:parent_id":1092072705,
     "wof:placetype":"locality",

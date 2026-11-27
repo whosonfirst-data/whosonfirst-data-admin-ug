@@ -61,7 +61,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85680079
+        85680079,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,11 +77,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092071685,
+            "macroregion_id":9895094869,
             "region_id":85680079
         }
     ],
     "wof:id":1092071685,
-    "wof:lastmodified":1695886169,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kinkiizi",
     "wof:parent_id":85680079,
     "wof:placetype":"county",

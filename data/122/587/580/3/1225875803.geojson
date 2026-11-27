@@ -41,7 +41,8 @@
         102191573,
         85632625,
         85679965,
-        1092069563
+        1092069563,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,12 @@
             "country_id":85632625,
             "county_id":1092069563,
             "locality_id":1225875803,
+            "macroregion_id":9895094867,
             "region_id":85679965
         }
     ],
     "wof:id":1225875803,
-    "wof:lastmodified":1566595712,
+    "wof:lastmodified":1795802717,
     "wof:name":"Sunu",
     "wof:parent_id":1092069563,
     "wof:placetype":"locality",

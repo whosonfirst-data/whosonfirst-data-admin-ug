@@ -190,7 +190,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85679843
+        85679843,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -206,11 +207,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092069517,
+            "macroregion_id":9895094869,
             "region_id":85679843
         }
     ],
     "wof:id":1092069517,
-    "wof:lastmodified":1695886803,
+    "wof:lastmodified":1795802717,
     "wof:name":"Buliisa",
     "wof:parent_id":85679843,
     "wof:placetype":"county",

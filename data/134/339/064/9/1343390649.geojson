@@ -40,7 +40,8 @@
         102191573,
         85632625,
         85679823,
-        1092072661
+        1092072661,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,11 +55,12 @@
             "country_id":85632625,
             "county_id":1092072661,
             "locality_id":1343390649,
+            "macroregion_id":9895094866,
             "region_id":85679823
         }
     ],
     "wof:id":1343390649,
-    "wof:lastmodified":1566594797,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kabulasoke",
     "wof:parent_id":1092072661,
     "wof:placetype":"locality",

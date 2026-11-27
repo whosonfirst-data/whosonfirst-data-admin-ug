@@ -35,7 +35,8 @@
         102191573,
         85632625,
         85679989,
-        1092074289
+        1092074289,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85632625,
             "county_id":1092074289,
             "locality_id":1259519223,
+            "macroregion_id":9895094867,
             "region_id":85679989
         }
     ],
     "wof:id":1259519223,
-    "wof:lastmodified":1566595648,
+    "wof:lastmodified":1795802717,
     "wof:name":"Pambaya",
     "wof:parent_id":1092074289,
     "wof:placetype":"locality",

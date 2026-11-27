@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679881,
-        1092071399
+        1092071399,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092071399,
             "locality_id":1293420535,
+            "macroregion_id":9895094866,
             "region_id":85679881
         }
     ],
     "wof:id":1293420535,
-    "wof:lastmodified":1566595011,
+    "wof:lastmodified":1795802717,
     "wof:name":"Kagembe",
     "wof:parent_id":1092071399,
     "wof:placetype":"locality",

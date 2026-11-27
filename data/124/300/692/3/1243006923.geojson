@@ -35,7 +35,8 @@
         102191573,
         85632625,
         85679795,
-        1092068917
+        1092068917,
+        9895094867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +50,12 @@
             "country_id":85632625,
             "county_id":1092068917,
             "locality_id":1243006923,
+            "macroregion_id":9895094867,
             "region_id":85679795
         }
     ],
     "wof:id":1243006923,
-    "wof:lastmodified":1566595509,
+    "wof:lastmodified":1795802717,
     "wof:name":"Bukatambula",
     "wof:parent_id":1092068917,
     "wof:placetype":"locality",

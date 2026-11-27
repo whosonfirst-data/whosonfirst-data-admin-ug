@@ -189,7 +189,8 @@
     "wof:belongsto":[
         102191573,
         85632625,
-        85679913
+        85679913,
+        9895094868
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -208,11 +209,12 @@
             "continent_id":102191573,
             "country_id":85632625,
             "county_id":1092070439,
+            "macroregion_id":9895094868,
             "region_id":85679913
         }
     ],
     "wof:id":1092070439,
-    "wof:lastmodified":1695886802,
+    "wof:lastmodified":1795802717,
     "wof:name":"Dokolo",
     "wof:parent_id":85679913,
     "wof:placetype":"county",

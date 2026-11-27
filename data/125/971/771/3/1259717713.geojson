@@ -106,7 +106,8 @@
         102191573,
         85632625,
         85679879,
-        1092072041
+        1092072041,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,11 +121,12 @@
             "country_id":85632625,
             "county_id":1092072041,
             "locality_id":1259717713,
+            "macroregion_id":9895094866,
             "region_id":85679879
         }
     ],
     "wof:id":1259717713,
-    "wof:lastmodified":1566595628,
+    "wof:lastmodified":1795802717,
     "wof:name":"Buto",
     "wof:parent_id":1092072041,
     "wof:placetype":"locality",

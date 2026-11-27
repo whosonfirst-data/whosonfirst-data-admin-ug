@@ -37,7 +37,8 @@
         102191573,
         85632625,
         85679921,
-        1092074425
+        1092074425,
+        9895094869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +52,12 @@
             "country_id":85632625,
             "county_id":1092074425,
             "locality_id":1276247549,
+            "macroregion_id":9895094869,
             "region_id":85679921
         }
     ],
     "wof:id":1276247549,
-    "wof:lastmodified":1566595090,
+    "wof:lastmodified":1795802717,
     "wof:name":"Oluni",
     "wof:parent_id":1092074425,
     "wof:placetype":"locality",

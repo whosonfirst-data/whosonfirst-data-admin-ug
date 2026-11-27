@@ -272,7 +272,8 @@
     "wd:wordcount":252,
     "wof:belongsto":[
         102191573,
-        85632625
+        85632625,
+        9895094866
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -296,6 +297,7 @@
         {
             "continent_id":102191573,
             "country_id":85632625,
+            "macroregion_id":9895094866,
             "region_id":85679823
         }
     ],
@@ -308,9 +310,9 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1695884915,
+    "wof:lastmodified":1795802717,
     "wof:name":"Sembabule",
-    "wof:parent_id":85632625,
+    "wof:parent_id":9895094866,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
     "wof:population":252597,
