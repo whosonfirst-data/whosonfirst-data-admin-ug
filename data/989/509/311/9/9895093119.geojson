@@ -1,0 +1,75 @@
+{
+  "id": 9895093119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78281,1.18807,30.78281,1.18807",
+    "geom:latitude":1.18807,
+    "geom:longitude":30.78281,
+    "gn:population":23847,
+    "iso:country":"UG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13132716: name \"Kyangwali Refugee Camp\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13132716"
+        },
+        {
+            "citation":"GeoNames populated place 13132716: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13132716"
+        },
+        {
+            "citation":"GeoNames populated place 13132716: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13132716"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092069075 (Buhaguzi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625,
+        85679933,
+        102191573,
+        1092069075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13132716
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e63509a2135f25c1957b6a94b9c3c4c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069075,
+            "locality_id":9895093119,
+            "region_id":85679933
+        }
+    ],
+    "wof:id":9895093119,
+    "wof:lastmodified":1795747213,
+    "wof:name":"Kyangwali Refugee Camp",
+    "wof:parent_id":1092069075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78281,
+    1.18807,
+    30.78281,
+    1.18807
+],
+  "geometry": {"coordinates":[30.78281,1.18807],"type":"Point"}
+}
